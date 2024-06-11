@@ -1,0 +1,21 @@
+Cargo	                              Média salarial (R$)
+Operador de produção	                    1.369
+Estagiário	                            1.519
+Operador	                            1.693
+Auxiliar Administrativo                     1.694
+Vendedor	                            1.747
+Consultor de Vendas	                    2.158
+Assistente Administrativo	            2.203
+Analista Pleno      	                    4.082
+Analista Administrativo	                    4.159
+Engenheiro Júnior	                    5.104
+Analista Sênior	                            6.560
+Coordenador    	                            7.068
+Engenheiro	                            7.105
+Supervisor	                            8.310
+Supervisor de Logística	                    8.423
+Engenheiro de Desenvolvimento Sênior	    9.448
+Gerente de Projetos	                    10.202
+Gerente	                                    11.769
+Gerente de Marketing             	    14.146
+Gerente de Produtos	                    14.441
